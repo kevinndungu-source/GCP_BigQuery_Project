@@ -16,11 +16,11 @@ The primary objective of this project is to conduct a comprehensive analysis of 
 ## Contents:
 - **SQL_Code/**: Contains SQL scripts/code used for analysis and visualization in Google BigQuery.
 - **Documentation/**: Documentation files such as project reports, analysis summaries, and any supplementary materials.
-- **README.md**: This file, providing an overview of the project, its objectives, and contents.
+- **README.md**: This file, provides an overview of the project, its objectives, and contents.
 
 ## Getting Started:
 To get started with the analysis, follow these steps:
-1. Clone the repository to your local machine using Git: git clone https://github.com/kevinndungu-source/Google_Cloud_Platform_GCP_Project
+1. Clone the repository to your local machine using Git.
 2. Navigate to the `SQL_Code/` directory to access the SQL script for analysis.
 3. Open the script in Google BigQuery or any SQL editor of your choice to execute the queries and perform the analysis.
 
