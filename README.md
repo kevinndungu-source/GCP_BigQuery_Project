@@ -22,6 +22,9 @@ The primary objective of this project is to conduct a comprehensive analysis of 
 - **Documentation/**: Documentation files such as project reports, analysis summaries, and any supplementary materials.
 - **README.md**: This file, provides an overview of the project, its objectives, and contents.
 
+## Prerequisite:
+GCP account is necessary to access and run SQL queries in BigQuery. If you don't have a GCP account, you can sign up for free [here](https://cloud.google.com/).
+
 ## Getting Started:
 To get started with the analysis, follow these steps:
 1. Clone the repository to your local machine using Git.
