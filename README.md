@@ -1,7 +1,7 @@
 # Chicago Crime Dataset Analysis
 
 ## Overview:
-This repository contains the code and analysis for the Chicago Crime Dataset, which reflects reported incidents of crime in the City of Chicago from 2001 to the present. The dataset is extracted from the Chicago Police Department's CLEAR (Citizen Law Enforcement Analysis and Reporting) system and is stored in Google BigQuery for analysis.
+This repository contains the code and analysis for the [Chicago Crime Dataset](https://console.cloud.google.com/marketplace/product/city-of-chicago-public-data/chicago-crime), which reflects reported incidents of crime in the City of Chicago from 2001 to the present. The dataset is extracted from the Chicago Police Department's CLEAR (Citizen Law Enforcement Analysis and Reporting) system and is stored in Google BigQuery for analysis.
 
 ## Objective:
 The primary objective of this project is to conduct a comprehensive analysis of the Chicago Crime Dataset using SQL queries in Google BigQuery. By leveraging SQL, we aim to uncover insights, patterns, and trends within the dataset that can inform decision-making for law enforcement agencies, policymakers, and community stakeholders.
