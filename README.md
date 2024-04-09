@@ -14,18 +14,15 @@ The primary objective of this project is to conduct a comprehensive analysis of 
 - Git (for version control)
 
 ## Contents:
-- **SQL_Code/**: Contains SQL scripts used for data cleaning, preprocessing, analysis, and visualization in Google BigQuery.
-- **Data/**: Includes the raw dataset files used for analysis.
+- **SQL_Code/**: Contains SQL scripts/code used for analysis and visualization in Google BigQuery.
 - **Documentation/**: Documentation files such as project reports, analysis summaries, and any supplementary materials.
-- **Visualizations/**: Contains visualizations generated from the analysis, if applicable.
-- **Scripts/**: Python scripts for data preprocessing or any additional scripting tasks, if applicable.
 - **README.md**: This file, providing an overview of the project, its objectives, and contents.
 
 ## Getting Started:
 To get started with the analysis, follow these steps:
 1. Clone the repository to your local machine using Git: git clone https://github.com/yourusername/chicago-crime-analysis.git
-2. Navigate to the `SQL_Code/` directory to access the SQL scripts for analysis.
-3. Open the scripts in Google BigQuery or any SQL editor of your choice to execute the queries and perform the analysis.
+2. Navigate to the `SQL_Code/` directory to access the SQL script for analysis.
+3. Open the script in Google BigQuery or any SQL editor of your choice to execute the queries and perform the analysis.
 
 ## Usage:
 - Execute the SQL scripts in Google BigQuery to analyze the Chicago Crime Dataset.
