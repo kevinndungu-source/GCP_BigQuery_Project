@@ -37,7 +37,7 @@ To get started with the analysis, follow these steps:
 - Modify and customize the analysis as needed for specific insights and requirements.
 
 ## Contributors:
-- [Kevin Ndungu](https://github.com/kevinndungu-source/Google_Cloud_Platform_GCP_Project): Project lead and primary contributor.
+- [Kevin Ndungu](https://github.com/kevinndungu-source): Project lead and primary contributor.
 
 ## License:
 This project is licensed under the [MIT License](LICENSE).
