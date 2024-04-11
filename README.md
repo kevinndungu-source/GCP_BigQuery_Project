@@ -33,7 +33,7 @@ To get started with the analysis, follow these steps:
 
 ## Usage:
 - Execute the SQL scripts in Google BigQuery to analyze the Chicago Crime Dataset.
-- Visualize the results using Google Data Studio or any other visualization tool.
+- Visualize the results using Google Looker Studio or any other visualization tool.
 - Modify and customize the analysis as needed for specific insights and requirements.
 
 ## Contributors:
