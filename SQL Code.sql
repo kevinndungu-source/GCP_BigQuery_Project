@@ -1,10 +1,10 @@
-#Task 1.
+# Task 1.
 
 SELECT MIN(date) AS oldest_date
 FROM bigquery-public-data.chicago_crime.crime;
 
 
-#Task 2.
+# Task 2.
 
 SELECT EXTRACT(YEAR FROM date) AS year, COUNT(*) AS crime_count
 FROM bigquery-public-data.chicago_crime.crime
@@ -13,7 +13,7 @@ ORDER BY crime_count DESC
 LIMIT 1;
 
 
-#Task 3.
+# Task 3.
 
 WITH crime_counts AS (
   SELECT primary_type, COUNT(*) AS total_crimes
@@ -34,7 +34,7 @@ FROM crime_counts cc
 JOIN arrest_counts ac ON cc.primary_type = ac.primary_type;
 
 
-#Task 4.
+# Task 4.
 
 WITH arrest_rates AS (
   SELECT EXTRACT(YEAR FROM date) AS year,
@@ -49,7 +49,7 @@ FROM arrest_rates
 ORDER BY arrest_rate DESC;
 
 
-#Task 5.
+# Task 5.
 
 WITH arrests_per_year AS (
   SELECT EXTRACT(YEAR FROM date) AS year,
@@ -63,7 +63,7 @@ FROM arrests_per_year
 ORDER BY total_arrests DESC;
 
 
-Task 6.
+# Task 6.
 
 WITH arrest_rates AS (
   SELECT EXTRACT(YEAR FROM date) AS year, 
