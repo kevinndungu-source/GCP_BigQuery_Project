@@ -39,6 +39,3 @@ To get started with the analysis, follow these steps:
 ## Contributors:
 - [Kevin Ndungu](https://github.com/kevinndungu-source): Project lead and primary contributor.
 
-## License:
-This project is licensed under the [MIT License](LICENSE).
-
