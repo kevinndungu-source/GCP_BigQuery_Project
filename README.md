@@ -25,6 +25,7 @@ The primary objective of this project is to conduct a comprehensive analysis of 
 >## Prerequisite:
 >GCP account is necessary to access and run SQL queries in >BigQuery. If you don't have a GCP account, you can sign >up for free [here](https://cloud.google.com/).
 
+
 ## Getting Started:
 To get started with the analysis, follow these steps:
 1. Clone the repository to your local machine using Git.
