@@ -7,6 +7,7 @@ This repository contains the SQL code for the [**Chicago Crime Dataset**](https:
     <img src="https://github.com/kevinndungu-source/Google_Cloud_Platform_GCP_Project/assets/114335263/e300c4b6-f13c-4eaa-abb5-37a27c5e701a">
 </p>
 
+>BigQuery, a Google-managed data warehouse solution, >operates in a serverless environment, facilitating >scalable data analysis across extensive datasets. >Functioning as a Platform as a Service (PaaS), it >facilitates queries through a SQL dialect and incorporates >integrated machine learning functionalities.
 
 ## Objective:
 The primary objective of this project is to conduct a comprehensive analysis of the Chicago Crime Dataset using SQL queries in Google BigQuery. By leveraging SQL, we aim to uncover insights, patterns, and trends within the dataset that can inform decision-making for law enforcement agencies, policymakers, and community stakeholders.
