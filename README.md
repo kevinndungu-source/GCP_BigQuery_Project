@@ -18,8 +18,8 @@ The primary objective of this project is to conduct a comprehensive analysis of 
 - Git (for version control).
 
 ## Contents:
-- **SQL_Code/**: Contains SQL scripts/code used for analysis and visualization in Google BigQuery.
-- **Documentation/**: Documentation files such as project reports, analysis summaries, and any supplementary materials.
+- **SQL_Code/**: Contains SQL script used for analysis and visualization in Google BigQuery.
+- **Documentation/**: Documentation site link for project reports, analysis summaries, and any supplementary materials.
 - **README.md**: This file, provides an overview of the project, its objectives, and contents.
 
 >## Prerequisite:
@@ -33,7 +33,7 @@ To get started with the analysis, follow these steps:
 3. Open the script in Google BigQuery or any SQL editor of your choice to execute the queries and perform the analysis.
 
 ## Usage:
-- Execute the SQL scripts in Google BigQuery to analyze the Chicago Crime Dataset.
+- Execute the SQL script in Google BigQuery to analyze the Chicago Crime Dataset.
 - Visualize the results using Google Looker Studio or any other visualization tool.
 - Modify and customize the analysis as needed for specific insights and requirements.
 
