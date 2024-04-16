@@ -19,7 +19,7 @@ The primary objective of this project is to conduct a comprehensive analysis of 
 
 ## Contents:
 - **SQL_Code/**: Contains SQL script used for analysis and visualization in Google BigQuery.
-- **Documentation/**: Documentation site link for project reports, analysis summaries, and any supplementary materials.
+- **Documentation/**: Documentation [site](https://kevinwndungu.notion.site/DATA-ANALYSIS-USING-GOOGLE-BIGQUERY-ef37830c4f634be4bde1fdf947ec07b7?pvs=4) link for project reports, analysis summaries, and any supplementary materials.
 - **README.md**: This file, provides an overview of the project, its objectives, and contents.
 
 >## Prerequisite:
