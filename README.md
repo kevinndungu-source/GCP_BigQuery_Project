@@ -31,7 +31,7 @@ The primary objective of this project is to conduct a comprehensive analysis of 
 ## Getting Started:
 To get started with the analysis, follow these steps:
 1. Clone the repository to your local machine using Git.
-2. Navigate to the `Code/` directory to access the SQL script for analysis.
+2. Navigate to the `Project's_Code/` directory to access the SQL script for analysis.
 3. Open the script in Google BigQuery or any SQL editor of your choice to execute the queries and perform the analysis.
 
 ## Usage:
