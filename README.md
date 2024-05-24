@@ -7,7 +7,7 @@ This repository contains the SQL code for the [**Chicago Crime Dataset**](https:
     <img src="https://github.com/kevinndungu-source/Google_Cloud_Platform_GCP_Project/assets/114335263/e300c4b6-f13c-4eaa-abb5-37a27c5e701a">
 </p>
 
->Google's **BigQuery** is a managed data warehouse service that operates without the need for servers, enabling scalable analysis of large data sets. This Platform as a Service (PaaS) supports querying using SQL and includes >native machine learning features.
+>Google's **BigQuery** is a managed data warehouse service that operates without the need for servers, enabling scalable analysis of large data sets. This Platform as a Service (PaaS) supports querying using SQL and includes native machine learning features.
 
 
 ## Objective:
