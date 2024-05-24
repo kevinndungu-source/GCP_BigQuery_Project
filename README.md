@@ -25,7 +25,7 @@ The primary objective of this project is to conduct a comprehensive analysis of 
 - **README.md**: This file, provides an overview of the project, its objectives, and contents.
 
 >## Prerequisite:
->GCP account is necessary to access and run SQL queries in >BigQuery. If you don't have a GCP account, you can sign >up for free [here](https://cloud.google.com/).
+>GCP account is necessary to access and run SQL queries in BigQuery. If you don't have a GCP account, you can sign up for free [here](https://cloud.google.com/).
 
 
 ## Getting Started:
